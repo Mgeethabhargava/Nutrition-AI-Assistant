@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+openai
+chromadb
+faiss-cpu
+tiktoken
+python-dotenv
+pypdf
+sqlite-utils
+plotly
+pandas
+langchain 
+langchain-core 
+langchain-community 
+langchain-openai
